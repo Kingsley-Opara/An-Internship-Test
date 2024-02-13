@@ -41,7 +41,7 @@ function Page() {
   return (
     <main className='w-full flex h-full min-h-screen max-md:flex-col'>
         <div className="h-full min-h-screen w-[55%] max-md:min-w-screen max-md:w-full 
-        bg-[url('./images/section.png')] relative object-contain">
+        bg-[url('./images/sectionPage.png')] relative object-contain">
             {/* <Image src={registerImage} className='w-3/4 min-h-screen'/> */}
             <div className='absolute top-[30%] left-24 max-md:top-[10%]'>
               <Image src={stars} className=''/>
