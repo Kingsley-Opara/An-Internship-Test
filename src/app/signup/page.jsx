@@ -2,7 +2,6 @@
 
 import React from 'react'
 import Image from 'next/image'
-import registerImage from "../images/section.png"
 import stars from "../images/Stars.png"
 import { useState } from 'react'
 
